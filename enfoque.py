@@ -262,6 +262,6 @@ class Enfoque:
 
 if __name__ == "__main__":
 
-    enfoque = Enfoque(op_varianza=0.75)
+    enfoque = Enfoque()
     #enfoque.stream_url = "http://10.10.51.211:8000/stream.mjpg"
     enfoque.iniciar()
