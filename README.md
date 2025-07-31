@@ -67,6 +67,11 @@ Instalación de dependencias:
 pip install opencv-python numpy requests
 ```
 
+Añadir .local/bin a PATH:
+```bash
+$ export PATH="$HOME/.local/bin:$PATH"
+
+$ source ~/.bashrc
 ---
 
 ## 📦 Configuración Avanzada
@@ -115,6 +120,35 @@ registo_enfoque_<fecha-hora>.jpg
 
 ---
 
-## 📜 Licencia
 
-Este proyecto se distribuye bajo licencia privada. Uso exclusivo interno o bajo autorización expresa.
+## 📜 Licencia y Derechos de Autor
+
+Este software es gratuito pero **no es de uso libre**.  
+Todos los derechos de autor reservados © Francisco Martínez Puchades, 2025.  
+Queda prohibida la redistribución, modificación o uso comercial sin autorización expresa.
+
+
+---
+
+## 🛡️ Licencia / License 
+
+Este software está licenciado bajo una licencia **Creative Commons Reconocimiento-NoComercial-SinObraDerivada 4.0 Internacional (CC BY-NC-ND 4.0)**.
+
+**Resumen (ES):**
+- ✅ Puedes **compartir** (copiar y redistribuir el material en cualquier medio o formato).
+- ❌ **No se permite el uso comercial**.
+- ❌ **No se permiten obras derivadas**.
+- ✅ Debes dar el crédito adecuado al autor original.
+
+**English Summary:**
+- ✅ You may **share** (copy and redistribute the material in any medium or format).
+- ❌ **No commercial use** is permitted.
+- ❌ **No derivatives or adaptations** are allowed.
+- ✅ You must give appropriate credit to the original author.
+
+**Licencia completa aquí / Full license here**:  
+[https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+---
+
+© 2025 Francisco Martínez Puchades – Todos los derechos reservados.
