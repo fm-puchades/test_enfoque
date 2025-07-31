@@ -10,11 +10,13 @@ Este repositorio implementa un sistema completo para el **test de enfoque autom�
 ├── enfoque.py             # Módulo principal de análisis y testeo de enfoque
 ├── camera_stream_server.py # Servidor MJPEG de vídeo streaming desde cámara local
 ├── cliente_cv2.py         # Cliente de prueba: captura y muestra una imagen del stream
-├── resize_img.py          # Utilidad para reescalar y recortar imágenes manteniendo aspecto
-├── timestamp.py           # Utilidad para generar marcas de tiempo legibles
 ├── cartaajuste.png        # Imagen de ajuste inicial para tests (requerida)
 ├── config.json            # Configuración de stream (opcional)
 └── LOG/                   # Carpeta para almacenar capturas registradas
+└── modules/
+   ├── resize_img.py          # Utilidad para reescalar y recortar imágenes manteniendo aspecto
+   └── timestamp.py           # Utilidad para generar marcas de tiempo legibles
+
 ```
 
 ---
