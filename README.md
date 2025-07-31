@@ -12,8 +12,8 @@ Este repositorio implementa un sistema completo para el **test de enfoque autom�
 ├── cliente_cv2.py         # Cliente de prueba: captura y muestra una imagen del stream
 ├── cartaajuste.png        # Imagen de ajuste inicial para tests (requerida)
 ├── config.json            # Configuración de stream (opcional)
-└── LOG/                   # Carpeta para almacenar capturas registradas
-└── modules/
+├── LOG/                   # Carpeta para almacenar capturas registradas
+└── modules/               # Carpeta de modulos estandar
    ├── resize_img.py          # Utilidad para reescalar y recortar imágenes manteniendo aspecto
    └── timestamp.py           # Utilidad para generar marcas de tiempo legibles
 
