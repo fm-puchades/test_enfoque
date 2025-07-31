@@ -1,0 +1,8 @@
+{
+    "params": [
+        {"url": "http://10.10.51.211:8000/stream.mjpg",
+        "varianza": 0.65
+        }
+    ]
+}
+   
