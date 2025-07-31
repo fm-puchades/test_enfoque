@@ -40,7 +40,7 @@ Si la cámara es versión superior a la 2.1.0 ya dispone de un servidor MJPG (ne
 
 - Abrir el TCICLIENT.jar
 - Conectar con la cámara
-- Parar de IDLE a READY
+- Pasar de IDLE a READY
 
 ### 2. Lanzar el test de enfoque:
 ```bash
