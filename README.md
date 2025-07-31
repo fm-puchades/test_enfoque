@@ -76,7 +76,7 @@ Puedes definir un archivo `config.json` para ajustar:
 {
   "params": [
     {
-      "url": "http://<IP>:8000/stream.mjpg",
+      "url": "http://10.10.51.211:8000/stream.mjpg",
       "varianza": 0.75
     }
   ]
