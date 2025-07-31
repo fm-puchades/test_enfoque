@@ -38,6 +38,10 @@ Este repositorio implementa un sistema completo para el **test de enfoque autom�
 ### 1. Iniciar servidor de streaming:
 Si la cámara es versión superior a la 2.1.0 ya dispone de un servidor MJPG (natifazea)
 
+- Abrir el TCICLIENT.jar
+- Conectar con la cámara
+- Parar de IDLE a READY
+
 ### 2. Lanzar el test de enfoque:
 ```bash
 python enfoque.py
