@@ -36,22 +36,12 @@ Este repositorio implementa un sistema completo para el **test de enfoque autom�
 ## ▶️ Ejecución
 
 ### 1. Iniciar servidor de streaming:
-```bash
-python camera_stream_server.py
-```
-- Dirección: [http://localhost:8000](http://localhost:8000)
-- Usuario: `cameraman`, Contraseña: `cam46610`
+Si la cámara es versión superior a la 2.1.0 ya dispone de un servidor MJPG (natifazea)
 
 ### 2. Lanzar el test de enfoque:
 ```bash
 python enfoque.py
 ```
-
-### 3. Cliente remoto simple:
-```bash
-python cliente_cv2.py
-```
-Este cliente se conecta al servidor, convierte la imagen a escala de grises y la muestra.
 
 ---
 
