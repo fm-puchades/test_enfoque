@@ -1,4 +1,4 @@
-# 🧪 Sistema de Test de Enfoque para Cámaras Industriales
+# 🧪 Sistema de Test de Enfoque para Cámaras Industriales CM4
 
 Este repositorio implementa un sistema completo para el **test de enfoque automático y verificación visual** en cámaras utilizadas en procesos de medición y detección de chapas. El sistema permite **capturar imágenes en streaming MJPEG**, aplicar técnicas de análisis de nitidez mediante el **Laplaciano**, y registrar automáticamente los resultados con ROI visuales.
 
