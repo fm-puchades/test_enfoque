@@ -36,7 +36,7 @@ Este repositorio implementa un sistema completo para el **test de enfoque autom�
 ## ▶️ Ejecución
 
 ### 1. Iniciar servidor de streaming:
-Si la cámara es versión superior a la 2.1.0 ya dispone de un servidor MJPG (natifazea)
+Si la cámara es versión superior a la 2.1.0 ya dispone de un servidor MJPG (netifaces-0.11.0)
 
 - Abrir el TCICLIENT.jar
 - Conectar con la cámara
